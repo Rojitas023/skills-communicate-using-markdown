@@ -3,3 +3,6 @@
 ``` javascript
 var Gato = "Este es un gato raro";
 ```
+- [x] Gato raro
+- [x] Hacer deberes
+- [ ] Ir a mimir
